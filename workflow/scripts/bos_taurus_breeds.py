@@ -1,15 +1,11 @@
 import pandas as pd
 import numpy as np
 
+df=pd.read_table("species/bos_taurus/manually_annotated_breeds.tsv")
+df=df.sort_values(by=['species','breed','subspecies'])
+df=df.sort_values(by=['subspecies','breed'])
 
-df
 
-
-
-
-for i in origins_df['Breed']:
-    if i not in df['breed'].tolist():
-        print(i)
 origins_df
 
 
