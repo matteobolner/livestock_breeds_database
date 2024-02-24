@@ -24,7 +24,7 @@ Hariana	Bos taurus	indicus	India	Asia
 Hereford	Bos taurus	taurus	United Kingdom	Europe
 Holstein	Bos taurus	taurus	Netherlands	Europe
 Horro	Bos taurus	indicusXtaurus	Ethiopia	Africa
-Jersey	Bos taurus	taurus	England	
+Jersey	Bos taurus	taurus	England	Europe
 Kenya Boran	Bos taurus	indicus	Kenya	Africa
 Kenana	Bos taurus	indicus	Ethiopia	Africa
 Limia	Bos taurus	taurus	Spain	Europe
@@ -45,10 +45,10 @@ Sheko	Bos taurus	taurus	Ethiopia	Africa
 Simmental	Bos taurus	taurus	Switzerland	Europe
 Tharparkar	Bos taurus	indicus	Pakistan	Asia
 Western Finn	Bos taurus	taurus	Finland	Europe
-Banteng	Bos javanicus		Indonesia	Asia
+Banteng	Bos javanicus	javanicus	Indonesia	Asia
 Zebu	Bos taurus	indicus		Asia/Africa
 Tyrolean Grey	Bos taurus	taurus	Austria	Europe
-Shorthorn	Bos taurus	taurus	England	
+Shorthorn	Bos taurus	taurus	England	Europe
 Blonde D'Aquitaine	Bos taurus	taurus	France	Europe
 Brown Swiss	Bos taurus	taurus	Switzerland	Europe
 Charolais	Bos taurus	taurus	France	Europe
@@ -59,8 +59,8 @@ Maine Anjou	Bos taurus	taurus	France	Europe
 Modenese	Bos taurus	taurus	Italy	Europe
 Original Braunvieh	Bos taurus	taurus	Switzerland	Europe
 Piemontese	Bos taurus	taurus	Italy	Europe
-Red angus	Bos taurus	taurus	Scotland	
+Red angus	Bos taurus	taurus	Scotland	Europe
 Reggiana	Bos taurus	taurus	Italy	Europe
 Romagnola	Bos taurus	taurus	Italy	Europe
 Salers	Bos taurus	taurus	France	Europe
-Yak	Bos grunniens		Tibet	Asia
+Yak	Bos grunniens	grunniens	Tibet	Asia
