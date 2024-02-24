@@ -17,7 +17,7 @@ for i in breeds['origin'].unique():
         origins_dict[i]=np.nan
 
 breeds['continent']=breeds['origin'].apply(lambda x:origins_dict[x])
-breeds.to_csv("/lustrehome/bolner/work/livestock_breeds_database/species/bos_taurus/manually_annotated_breeds.tsv", index=False, sep='\t')
+breeds.to_csv("/lustrehome/bolner/work/livestock_breeds_database/species/bos_taurus/manually_annotated_breeds.tsv", index=False, sep='')
 
 
 
