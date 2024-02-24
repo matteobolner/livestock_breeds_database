@@ -1,15 +1,58 @@
 import pandas as pd
 import numpy as np
+import pycountry
+import pycountry_convert as pc
+#import country_converter as coco
+
+import re
+
+breeds=pd.read_table("/lustrehome/bolner/work/livestock_breeds_database/species/bos_taurus/manually_annotated_breeds.tsv")
+
+origins_dict={}
+
+for i in breeds['origin'].unique():
+    try:
+        origins_dict[i]=country_to_continent(i)
+    except:
+        origins_dict[i]=np.nan
+
+breeds['continent']=breeds['origin'].apply(lambda x:origins_dict[x])
+breeds
 
 
 
-breeds=pd.read_table("https://raw.githubusercontent.com/matteobolner/livestock_breeds_database/main/species/bos_taurus/manually_annotated_breeds.tsv")
+
+def country_to_continent(country_name):
+    country_alpha2 = pc.country_name_to_country_alpha2(country_name)
+    country_continent_code = pc.country_alpha2_to_continent_code(country_alpha2)
+    country_continent_name = pc.convert_continent_code_to_continent_name(country_continent_code)
+    return country_continent_name
+
+pc.convert_country_alpha2_to_continent_name("IT")
+breeds[breeds['origin'].isna()]
+
+
+
+
+
+breeds
+
+
+
+
+
+
+
+
+
+
+
 
 
 df=df.sort_values(by=['subspecies','breed'])
 
-
 origins_df
+
 
 
 

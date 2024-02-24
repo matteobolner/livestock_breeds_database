@@ -1,66 +1,66 @@
-breed	species	subspecies	origin
-Achai	Bos taurus	indicus	Pakistan
-Afar	Bos taurus	indicusXtaurus	Ethiopia
-African Buffalo	Syncerus caffer		Kenya
-Angus	Bos taurus	taurus	United Kingdom
-Ankole	Bos taurus	indicusXtaurus	Uganda
-Arsi	Bos taurus	indicus	Ethiopia
-Barka	Bos taurus	indicus	Ethiopia
-Bhagnari	Bos taurus	indicus	Pakistan
-Boskarin	Bos taurus	taurus	Croatia
-Brahman	Bos taurus	indicusXtaurus	United States
-Butana	Bos taurus	indicus	Sudan
-Cholistani	Bos taurus	indicus	Pakistan
-Dajal	Bos taurus	indicus	Pakistan
-Dhanni	Bos taurus	indicus	Pakistan
-Eastern Finn	Bos taurus	taurus	Finland
-Ethiopian Boran	Bos taurus	indicus	Ethiopia
-Fogera	Bos taurus	indicusXtaurus	Ethiopia
-Gabrali	Bos taurus	indicus	Pakistan
-Gir	Bos taurus	indicusXtaurus	United States
-Goffa	Bos taurus	indicus	Ethiopia
-Hanwoo	Bos taurus	taurus	South Korea
-Hariana	Bos taurus	indicus	India
-Hereford	Bos taurus	taurus	United Kingdom
-Holstein	Bos taurus	taurus	Netherlands
-Horro	Bos taurus	indicusXtaurus	Ethiopia
-Jersey	Bos taurus	taurus	England
-Kenya Boran	Bos taurus	indicus	Kenya
-Kenana	Bos taurus	indicus	Ethiopia
-Limia	Bos taurus	taurus	Spain
-Lohani	Bos taurus	indicus	Pakistan
-Maremmana	Bos taurus	taurus	Italy
-Maronesa	Bos taurus	taurus	Spain
-Mursi	Bos taurus	indicus	Ethiopia
-Muturu	Bos taurus	taurus	Nigeria
-N'Dama	Bos taurus	taurus	The Gambia
-Nelore	Bos taurus	indicusXtaurus	Brazil
-Ogaden	Bos taurus	indicus	Ethiopia
-Pajuna	Bos taurus	taurus	Spain
-Podolica	Bos taurus	taurus	Italy
-Red Sindhi	Bos taurus	indicus	Pakistan
-Sahiwal	Bos taurus	indicus	Pakistan
-Sayaguesa	Bos taurus	taurus	Spain
-Sheko	Bos taurus	taurus	Ethiopia
-Simmental	Bos taurus	taurus	Swiss
-Tharparkar	Bos taurus	indicus	Pakistan
-Western Finn	Bos taurus	taurus	Finland
-Banteng	Bos javanicus		Indonesia
-Zebu	Bos taurus	indicus
-Tyrolean Grey	Bos taurus	taurus	Austria
-Shorthorn	Bos taurus	taurus	England
-Blonde D'Aquitaine	Bos taurus	taurus	France
-Brown Swiss	Bos taurus	taurus	Switzerland
-Charolais	Bos taurus	taurus	France
-Chianina	Bos taurus	taurus	Italy
-Gelbvieh	Bos taurus	taurus	Italy
-Limousin	Bos taurus	taurus	France
-Maine Anjou	Bos taurus	taurus	France
-Modenese	Bos taurus	taurus	Italy
-Original Braunvieh	Bos taurus	taurus	Switzerland
-Piemontese	Bos taurus	taurus	Switzerland
-Red angus	Bos taurus	taurus	Scotland
-Reggiana	Bos taurus	taurus	Italy
-Romagnola	Bos taurus	taurus	Italy
-Salers	Bos taurus	taurus	France
-Yak	Bos grunniens		Tibet
+breed	species	subspecies	country	continent
+Achai	Bos taurus	indicus	Pakistan	Asia
+Afar	Bos taurus	indicusXtaurus	Ethiopia	Africa
+African Buffalo	Syncerus caffer		Kenya	Africa
+Angus	Bos taurus	taurus	United Kingdom	Europe
+Ankole	Bos taurus	indicusXtaurus	Uganda	Africa
+Arsi	Bos taurus	indicus	Ethiopia	Africa
+Barka	Bos taurus	indicus	Ethiopia	Africa
+Bhagnari	Bos taurus	indicus	Pakistan	Asia
+Boskarin	Bos taurus	taurus	Croatia	Europe
+Brahman	Bos taurus	indicusXtaurus	United States	North America
+Butana	Bos taurus	indicus	Sudan	Africa
+Cholistani	Bos taurus	indicus	Pakistan	Asia
+Dajal	Bos taurus	indicus	Pakistan	Asia
+Dhanni	Bos taurus	indicus	Pakistan	Asia
+Eastern Finn	Bos taurus	taurus	Finland	Europe
+Ethiopian Boran	Bos taurus	indicus	Ethiopia	Africa
+Fogera	Bos taurus	indicusXtaurus	Ethiopia	Africa
+Gabrali	Bos taurus	indicus	Pakistan	Asia
+Gir	Bos taurus	indicusXtaurus	United States	North America
+Goffa	Bos taurus	indicus	Ethiopia	Africa
+Hanwoo	Bos taurus	taurus	South Korea	Asia
+Hariana	Bos taurus	indicus	India	Asia
+Hereford	Bos taurus	taurus	United Kingdom	Europe
+Holstein	Bos taurus	taurus	Netherlands	Europe
+Horro	Bos taurus	indicusXtaurus	Ethiopia	Africa
+Jersey	Bos taurus	taurus	England	
+Kenya Boran	Bos taurus	indicus	Kenya	Africa
+Kenana	Bos taurus	indicus	Ethiopia	Africa
+Limia	Bos taurus	taurus	Spain	Europe
+Lohani	Bos taurus	indicus	Pakistan	Asia
+Maremmana	Bos taurus	taurus	Italy	Europe
+Maronesa	Bos taurus	taurus	Spain	Europe
+Mursi	Bos taurus	indicus	Ethiopia	Africa
+Muturu	Bos taurus	taurus	Nigeria	Africa
+N'Dama	Bos taurus	taurus	Gambia	Africa
+Nelore	Bos taurus	indicusXtaurus	Brazil	South America
+Ogaden	Bos taurus	indicus	Ethiopia	Africa
+Pajuna	Bos taurus	taurus	Spain	Europe
+Podolica	Bos taurus	taurus	Italy	Europe
+Red Sindhi	Bos taurus	indicus	Pakistan	Asia
+Sahiwal	Bos taurus	indicus	Pakistan	Asia
+Sayaguesa	Bos taurus	taurus	Spain	Europe
+Sheko	Bos taurus	taurus	Ethiopia	Africa
+Simmental	Bos taurus	taurus	Switzerland	Europe	
+Tharparkar	Bos taurus	indicus	Pakistan	Asia
+Western Finn	Bos taurus	taurus	Finland	Europe
+Banteng	Bos javanicus		Indonesia	Asia
+Zebu	Bos taurus	indicus		Asia/Africa	
+Tyrolean Grey	Bos taurus	taurus	Austria	Europe
+Shorthorn	Bos taurus	taurus	England	
+Blonde D'Aquitaine	Bos taurus	taurus	France	Europe
+Brown Swiss	Bos taurus	taurus	Switzerland	Europe
+Charolais	Bos taurus	taurus	France	Europe
+Chianina	Bos taurus	taurus	Italy	Europe
+Gelbvieh	Bos taurus	taurus	Italy	Europe
+Limousin	Bos taurus	taurus	France	Europe
+Maine Anjou	Bos taurus	taurus	France	Europe
+Modenese	Bos taurus	taurus	Italy	Europe
+Original Braunvieh	Bos taurus	taurus	Switzerland	Europe
+Piemontese	Bos taurus	taurus	Switzerland	Europe
+Red angus	Bos taurus	taurus	Scotland	
+Reggiana	Bos taurus	taurus	Italy	Europe
+Romagnola	Bos taurus	taurus	Italy	Europe
+Salers	Bos taurus	taurus	France	Europe
+Yak	Bos grunniens		Tibet	Asia	
