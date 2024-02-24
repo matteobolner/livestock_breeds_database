@@ -7,7 +7,7 @@ import pycountry_convert as pc
 import re
 
 breeds=pd.read_table("/lustrehome/bolner/work/livestock_breeds_database/species/bos_taurus/manually_annotated_breeds.tsv")
-
+breeds
 origins_dict={}
 
 for i in breeds['origin'].unique():
