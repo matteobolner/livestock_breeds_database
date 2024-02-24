@@ -3,8 +3,9 @@ import numpy as np
 
 
 
-df=pd.read_table("species/bos_taurus/manually_annotated_breeds.tsv")
-df=df.sort_values(by=['species','breed','subspecies'])
+breeds=pd.read_table("https://raw.githubusercontent.com/matteobolner/livestock_breeds_database/main/species/bos_taurus/manually_annotated_breeds.tsv")
+
+
 df=df.sort_values(by=['subspecies','breed'])
 
 
